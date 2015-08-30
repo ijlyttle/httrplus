@@ -24,3 +24,15 @@ warn_for_status <- function(x){
   check_for_status(x, type = "warning")
 }
 ```
+
+## Installation
+
+This package is not yet on CRAN (and hopefully won't be).
+
+To get the current development version from github:
+
+```R
+# install.packages("devtools")
+devtools::install_github("ijlyttle/httrplus")
+```
+

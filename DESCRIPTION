@@ -1,5 +1,5 @@
 Package: httrplus
-Title: Addons for Hadley Wickham's httr Package
+Title: Addons to the httr Package
 Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Ian", family = "Lyttle", email = "ian.lyttle@schneider-electric.com", role = c("aut", "cre")),
