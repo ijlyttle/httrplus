@@ -2,9 +2,11 @@ Package: httrplus
 Title: Addons for Hadley Wickham's httr Package
 Version: 0.0.0.9000
 Authors@R: c(
-    person("Ian", "Lyttle", "ian.lyttle@schneider-electric.com", role = c("aut", "cre")),
-    person("Schneider Electric", role = "cph")
-    )
+    person(given = "Ian", family = "Lyttle", email = "ian.lyttle@schneider-electric.com", role = c("aut", "cre")),
+    person(given = "Alex", family = "Shum", email = "alex@ALShum.com", role = c("ctb")),
+    person(given = "Hadley", family = "Wickham", email = "hadley@rstudio.coms", role = c("ctb")),
+    person(given = "Schneider Electric", role = "cph")
+  )
 Description: At this point, the purpose is to provide a more-general error- and warning-checking framework.
 Depends: R (>= 3.2.2)
 License: MIT + file LICENSE
